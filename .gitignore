@@ -5,3 +5,5 @@ smoke-test-dashboard.png
 .env
 .env.*
 !.env.example
+
+.vercel
